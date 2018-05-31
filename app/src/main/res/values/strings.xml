@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="choose_city">Choose a city name from avobe options</string>
+
+    <string-array name="allLocaion">
+        <item>Choose Location</item>
+        <item>Dhaka</item>
+        <item>Chittagong</item>
+        <item>Rajshahi</item>
+        <item>Sylhet</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="test">
+        Friday \n
+        Cloudy \n
+        6.00 PM elias \n
+        Height 26 | Howest 19
+    </string>
+    <string name="choose_a_city_name_from_avobe_it_is_needed_to_see_weather">Choose a city name from avobe. it is needed to see weather.</string>
+    <string name="info">Developed by - Lazy coder Team \nApplication Version: 1.0</string>
+
+</resources>
